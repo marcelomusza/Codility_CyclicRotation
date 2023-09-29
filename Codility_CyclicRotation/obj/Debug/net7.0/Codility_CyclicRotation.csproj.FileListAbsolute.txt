@@ -1,0 +1,14 @@
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\bin\Debug\net7.0\Codility_CyclicRotation.exe
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\bin\Debug\net7.0\Codility_CyclicRotation.deps.json
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\bin\Debug\net7.0\Codility_CyclicRotation.runtimeconfig.json
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\bin\Debug\net7.0\Codility_CyclicRotation.dll
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\bin\Debug\net7.0\Codility_CyclicRotation.pdb
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\obj\Debug\net7.0\Codility_CyclicRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\obj\Debug\net7.0\Codility_CyclicRotation.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\obj\Debug\net7.0\Codility_CyclicRotation.AssemblyInfo.cs
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\obj\Debug\net7.0\Codility_CyclicRotation.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\obj\Debug\net7.0\Codility_CyclicRotation.dll
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\obj\Debug\net7.0\refint\Codility_CyclicRotation.dll
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\obj\Debug\net7.0\Codility_CyclicRotation.pdb
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\obj\Debug\net7.0\Codility_CyclicRotation.genruntimeconfig.cache
+C:\Users\Marce\source\repos\Training\Codility\Codility_CyclicRotation\Codility_CyclicRotation\obj\Debug\net7.0\ref\Codility_CyclicRotation.dll
